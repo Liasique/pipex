@@ -105,6 +105,7 @@ May be used for debugging purposes, but error messages are typically written to 
 
 
 
-Description This project focuses on handling pipes.
+Description -- This project focuses on handling pipes.
 
+https://www.youtube.com/watch?v=QD9YKSg3wCc&list=PLK4FY1IoDcHG-jUt93Cl7n7XLQDZ0q7Tv&index=1 - The fork call visualized
 https://www.youtube.com/watch?v=94URLRsjqMQ&list=PLK4FY1IoDcHG-jUt93Cl7n7XLQDZ0q7Tv&index=2 - Calling fork multiple times
